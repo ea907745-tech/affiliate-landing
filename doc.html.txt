@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Make $1,000 in 30 Days - Affiliate Digital Products</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f7f9fc;
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+    .container {
+      max-width: 480px;
+      margin: 60px auto;
+      background: white;
+      padding: 30px 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgb(0 0 0 / 0.1);
+      text-align: center;
+    }
+    h1 {
+      color: #0a72ff;
+      margin-bottom: 15px;
+      font-size: 2.4rem;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 30px;
+      color: #444;
+    }
+    a.cta-button {
+      display: inline-block;
+      background: #0a72ff;
+      color: white;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      text-decoration: none;
+      box-shadow: 0 4px 8px rgb(10 114 255 / 0.4);
+      transition: background 0.3s ease;
+    }
+    a.cta-button:hover {
+      background: #085ac4;
+      box-shadow: 0 6px 12px rgb(8 90 196 / 0.6);
+    }
+    .contact-info {
+      margin-top: 45px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .contact-info strong {
+      display: block;
+      margin-bottom: 5px;
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Want to Make $1,000 in 30 Days?</h1>
+    <p>Yes, you heard that right — $1,000 just by selling digital products online with affiliate marketing.  
+    It’s not a scam. Stick with us and start earning with proven digital courses and tools.</p>
+    <a href="https://tinyurl.com/2v64rxp6" class="cta-button" target="_blank" rel="noopener noreferrer">Get Started Now</a>
+    
+    <div class="contact-info">
+      <strong>Contact Us:</strong>
+      Email: <a href="mailto:ea907745@gmail.com">ea907745@gmail.com</a><br />
+      Phone: <a href="tel:+0537223509">0537223509</a>
+    </div>
+  </div>
+</body>
+</html>
